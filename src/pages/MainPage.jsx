@@ -1,5 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
-import styles from "../module-styles/MainPage-style.module.css"
+import styles from "../module-styles/MainPage-style.module.css";
 
 const MainPage = () => {
   return (
