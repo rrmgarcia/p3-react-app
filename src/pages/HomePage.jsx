@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "../components/NavBar";
 import { useNavigate } from "react-router-dom";
-import styles from "../module-styles/Homepage-style.module.css";
+import styles from "../module-styles/HomePage-style.module.css";
 
 const HomePage = () => {
   const navigate = useNavigate();
